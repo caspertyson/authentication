@@ -1,0 +1,3 @@
+java -classpath ".;sqlite-jdbc-3.41.2.1.jar" EnrolmentAndVerification
+
+(change ; to : for mac and linux)
